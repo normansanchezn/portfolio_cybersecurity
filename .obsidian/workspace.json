@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "e4d9600b541785cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dc07447e7e7d3e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "384369e3a74240ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "security_audit/Control categories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1cd30ef3aee0ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8aeacbdb3fbb78b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a61e160205ef3a9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0290ea9cb59960db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18147ff22cb91aaf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce344df9158f6fa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d8140a193b21309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5a49ed28b891be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "security_audit/Control categories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e6f168f8ad0abe8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "security_audit/Control categories.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85628a5d99ee8c5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d933726ded724980",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "security_audit/Control categories.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a61e160205ef3a9d",
+  "lastOpenFiles": [
+    "security_audit/Controls and compliance checklist.pdf",
+    "security_audit/Control categories.md",
+    "security_audit/Controls and compliance checklist.md",
+    "security_audit/Botium Toys Scope, goals, and risk assessment report.md",
+    "scope, goals, and risk assessment report..md",
+    "security_audit",
+    "Manage Security Risk"
+  ]
+}
